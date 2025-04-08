@@ -5,7 +5,8 @@
 # Due Date:  4/10/2025
 # Course #/Section:  IS4010/001
 # Semester/Year:  Spring 2025
-# Brief Description of the assignment:  This assignment execute an API call using a URL. We picked the Youtube AI 
+# Brief Description of the assignment:  # Brief Description of the assignment:This assignment involved collaborating with a group to connect to and extract data from a third-party API. 
+# We chose YouTube Data API to retrieve the top 10 trending videos in the US, process the returned data, and export the results to a CSV file. 
 # Brief Description of what this module does: This module reads data from the CSV file
 # Citations: https://stackoverflow.com/questions/26903304/reading-data-from-a-csv-file-in-python
 # Anything else that's relevant:N/A

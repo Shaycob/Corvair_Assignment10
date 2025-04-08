@@ -5,7 +5,8 @@
 # Due Date:   4/10/2025
 # Course #/Section:   IS 4010 001
 # Semester/Year:   Spring 2025
-# Brief Description of the assignment:  {required}
+# Brief Description of the assignment: # Brief Description of the assignment:This assignment involved collaborating with a group to connect to and extract data from a third-party API. 
+# We chose YouTube Data API to retrieve the top 10 trending videos in the US, process the returned data, and export the results to a CSV file.
 
 # Brief Description of what this module does: This module searches YouTube videos using the API, extracts key info, and saves the results to a CSV file.
 # Citations: https://www.youtube.com/watch?v=q5uM4VKywbA - CSV assistance. https://www.youtube.com/watch?v=TE66McLMMEw - YouTube API assistance.

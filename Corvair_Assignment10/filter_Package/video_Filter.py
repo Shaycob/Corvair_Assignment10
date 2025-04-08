@@ -1,11 +1,12 @@
-# File Name : modules/video_filter.py
+# File Name : video_filter.py
 # Student Name: Daquan Daniels 
 # email:  danieldu@mail.uc.edu
 # Assignment Number: Assignment 10
 # Due Date:   04/10/25
 # Course #/Section:   IS4010-001
 # Semester/Year:   Spring 2025 
-# Brief Description of the assignment: execute an API call using a URL   
+# Brief Description of the assignment:# Brief Description of the assignment:This assignment involved collaborating with a group to connect to and extract data from a third-party API. 
+# We chose YouTube Data API to retrieve the top 10 trending videos in the US, process the returned data, and export the results to a CSV file. 
 
 # Brief Description of what this module does: Reads video data, checks view count, filters qualifying videos, and writes them to a new CSV file.
 # Citations: N/A
