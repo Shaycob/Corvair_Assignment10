@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Corvair_Assignment10", "Corvair_Assignment10\Corvair_Assignment10.pyproj", "{022D7053-3513-4E2A-B5FD-EF0AD29FCD7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022D7053-3513-4E2A-B5FD-EF0AD29FCD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022D7053-3513-4E2A-B5FD-EF0AD29FCD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CC101E-334C-4E46-AB6B-285B41166408}
+	EndGlobalSection
+EndGlobal
