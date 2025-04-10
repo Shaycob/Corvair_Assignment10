@@ -7,11 +7,10 @@
 # Semester/Year:   Spring 2025
 # Brief Description of the assignment: # Brief Description of the assignment:This assignment involved collaborating with a group to connect to and extract data from a third-party API. 
 # We chose YouTube Data API to retrieve the top 10 trending videos in the US, process the returned data, and export the results to a CSV file.
-
 # Brief Description of what this module does: This module searches YouTube videos using the API, extracts key info, and saves the results to a CSV file.
 # Citations: https://www.youtube.com/watch?v=q5uM4VKywbA - CSV assistance. https://www.youtube.com/watch?v=TE66McLMMEw - YouTube API assistance.
 
-# Anything else that's relevant:
+# Anything else that's relevant: N/A
 
 import requests
 import csv
@@ -63,10 +62,10 @@ class YouTubeTopVideos:
 
     def save_to_csv(self, videos, filename="youtube_data.csv"):
         """
-        Save parsed video data to a CSV file.
+        Save parsed video data to a CSV file
 
-        @param videos list: A list of lists containing video data [title, channel, views, likes].
-        @param filename str: The name of the CSV file to save (default is 'youtube_data.csv').
+        @param videos list: A list of lists containing video data (title, channel, views, likes)
+        @param filename str: The name of the CSV file to save (default is 'youtube_data.csv')
         @return None
         """
         with open(filename, mode="w", newline="", encoding="utf-8") as file:
